@@ -100,7 +100,7 @@ section{
     border-radius: 50%;
 }
 
-.info.box{
+.info-box{
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -147,10 +147,6 @@ section{
 .btn:hover{
 background-color: black;
 color: white;
-}
-
-.cuadro {
-  margin-bottom: 20px; 
 }
 
 .socials{
