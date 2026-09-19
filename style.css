@@ -127,6 +127,8 @@ section{
         font-size: 2rem;
 }
 
+
+
 .btn-group{
     display: flex;
     gap: 3rem;
@@ -145,6 +147,10 @@ section{
 .btn:hover{
 background-color: black;
 color: white;
+}
+
+.cuadro {
+  margin-bottom: 20px; 
 }
 
 .socials{
